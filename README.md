@@ -58,16 +58,16 @@
 Abaixo se encontra as Sprints já realizadas do curso de D&A - AWS, cada um de seus diretórios apresenta um resumo do conteúdo:
 
 ✧ [**CULTURA AGIL E SEGURANÇA**](<SPRINT0/CULTURA AGIL E SEGURANÇA.md>) ;\
-✧ [**SPRINT 1**](SPRINT1/SPRINT1.md) ;\
-✧ [**SPRINT 2**](SPRINT2/SPRINT2.md) ;\
-✧ [**SPRINT 3**](SPRINT3/SPRINT3.md) ;\
-✧ [**SPRINT 4**](SPRINT4/SPRINT4.md) ;\
-✧ [**SPRINT 5**](SPRINT5/SPRINT5.md) ;\
-✧ [**SPRINT 6**](SPRINT6/SPRINT6.md) ;\
-✧ [**SPRINT 7**](SPRINT7/SPRINT7.md) ;\
-✧ [**SPRINT 8**](SPRINT8/SPRINT8.md) ;\
-✧ [**SPRINT 9**](SPRINT9/SPRINT9.md) ;\
-✧ [**SPRINT 10**](SPRINT10/SPRINT10.md) .
+✧ [**SPRINT 1**](<SPRINT1/SPRINT1.md>) ;\
+✧ [**SPRINT 2**](<SPRINT2/SPRINT2.md>) ;\
+✧ [**SPRINT 3**](<SPRINT3/SPRINT3.md>) ;\
+✧ [**SPRINT 4**](<SPRINT4/SPRINT4.md>) ;\
+✧ [**SPRINT 5**](<SPRINT5/SPRINT5.md>) ;\
+✧ [**SPRINT 6**](<SPRINT6/SPRINT6.md>) ;\
+✧ [**SPRINT 7**](<SPRINT7/SPRINT7.md>) ;\
+✧ [**SPRINT 8**](<SPRINT8/SPRINT8.md>) ;\
+✧ [**SPRINT 9**](<SPRINT9/SPRINT9.md>) ;\
+✧ [**SPRINT 10**](<SPRINT10/SPRINT10.md>) .
 
 ---
 

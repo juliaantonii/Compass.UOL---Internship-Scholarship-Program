@@ -57,7 +57,7 @@
 ### <img src="Images_Readme/img4.png" width="65" height="50">Desempenho e Aprendizado - D&A - AWS
 Abaixo se encontra as Sprints já realizadas do curso de D&A - AWS, cada um de seus diretórios apresenta um resumo do conteúdo:
 
-✧ [**CULTURA AGIL E SEGURANÇA**](SPRINT0/CULTURA AGIL E SEGURANÇA.md) ;\
+✧ [**CULTURA AGIL E SEGURANÇA**](<SPRINT0/CULTURA AGIL E SEGURANÇA.md>) ;\
 ✧ [**SPRINT 1**](SPRINT1/SPRINT1.md) ;\
 ✧ [**SPRINT 2**](SPRINT2/SPRINT2.md) ;\
 ✧ [**SPRINT 3**](SPRINT3/SPRINT3.md) ;\

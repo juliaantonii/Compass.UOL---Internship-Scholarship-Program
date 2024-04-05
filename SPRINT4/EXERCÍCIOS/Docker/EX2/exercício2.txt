@@ -1,0 +1,2 @@
+EX1.
+No Docker, é possível reutilizar containers que foram parados anteriormente, desde que esses containers não tenham sido removidos ( --rm ). Containers parados ainda existem no sistema Docker, e você pode reiniciá-los usando o comando docker start <container_id>.

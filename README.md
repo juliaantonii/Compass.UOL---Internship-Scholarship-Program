@@ -57,17 +57,17 @@
 ### <img src="Images_Readme/img4.png" width="65" height="50">Desempenho e Aprendizado - D&A - AWS
 Abaixo se encontra as Sprints já realizadas do curso de D&A - AWS, cada um de seus diretórios apresenta um resumo do conteúdo:
 
-✧ [**CULTURA AGIL E SEGURANÇA**](<Compass-UOL/SPRINT0/CULTURA AGIL E SEGURANÇA.md>) ;\
-✧ [**SPRINT 1**](<Compass-UOL/(SPRINT1/SPRINT1.md>) ;\
-✧ [**SPRINT 2**](Compass-UOL/SPRINT2/SPRINT2.md) ;\
-✧ [**SPRINT 3**](Compass-UOL/SPRINT3/SPRINT3.md) ;\
-✧ [**SPRINT 4**](Compass-UOL/SPRINT4/SPRINT4.md) ;\
-✧ [**SPRINT 5**](Compass-UOL/SPRINT5/SPRINT5.md) ;\
-✧ [**SPRINT 6**](Compass-UOL/SPRINT6/SPRINT6.md) ;\
-✧ [**SPRINT 7**](Compass-UOL/SPRINT7/SPRINT7.md) ;\
-✧ [**SPRINT 8**](Compass-UOL/SPRINT8/SPRINT8.md) ;\
-✧ [**SPRINT 9**](Compass-UOL/SPRINTI8/SPRINT9.md) ;\
-✧ [**SPRINT 10**](Compass-UOL/SPRINTI8/SPRINT10.md) .
+✧ [**CULTURA AGIL E SEGURANÇA**](SPRINT0/CULTURA AGIL E SEGURANÇA.md) ;\
+✧ [**SPRINT 1**](SPRINT1/SPRINT1.md) ;\
+✧ [**SPRINT 2**](SPRINT2/SPRINT2.md) ;\
+✧ [**SPRINT 3**](SPRINT3/SPRINT3.md) ;\
+✧ [**SPRINT 4**](SPRINT4/SPRINT4.md) ;\
+✧ [**SPRINT 5**](SPRINT5/SPRINT5.md) ;\
+✧ [**SPRINT 6**](SPRINT6/SPRINT6.md) ;\
+✧ [**SPRINT 7**](SPRINT7/SPRINT7.md) ;\
+✧ [**SPRINT 8**](SPRINT8/SPRINT8.md) ;\
+✧ [**SPRINT 9**](SPRINT9/SPRINT9.md) ;\
+✧ [**SPRINT 10**](SPRINT10/SPRINT10.md) .
 
 ---
 
